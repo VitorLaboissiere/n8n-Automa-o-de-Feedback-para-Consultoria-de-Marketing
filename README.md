@@ -1,6 +1,6 @@
 # Feedback automático para consultores com IA (n8n)
 
-> 📚 **Projeto de estudo** desenvolvido acompanhando o curso **"Agentes de IA e n8n"** da **Hashtag Treinamentos**. Por conta própria, acrescentei o tratamento de consultores **sem avaliação no dia** (ver "Melhoria que eu fiz").
+> 📚 **Projeto de estudo** desenvolvido . Acrescentei o tratamento de consultores **sem avaliação no dia** (ver "Melhoria que eu fiz").
 
 Automação no **n8n** que, todo dia, analisa as avaliações que os clientes deram a cada consultor de uma consultoria de marketing (respostas de um Google Forms em uma planilha). Quando a **média do dia fica abaixo de 7**, uma **IA (Google Gemini)** escreve um e-mail de feedback construtivo para o consultor, com a planilha das avaliações do dia em anexo.
 
